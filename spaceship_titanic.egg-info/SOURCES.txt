@@ -1,9 +1,0 @@
-pyproject.toml
-apps/__init__.py
-apps/main.py
-spaceship_titanic.egg-info/PKG-INFO
-spaceship_titanic.egg-info/SOURCES.txt
-spaceship_titanic.egg-info/dependency_links.txt
-spaceship_titanic.egg-info/top_level.txt
-utils_folder/__init__.py
-utils_folder/helper.py
